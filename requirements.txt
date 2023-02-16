@@ -1,0 +1,4 @@
+openpyxl==3.0.9
+auto-py-to-exe==2.18.2
+#pyinstaller==5.0.0
+rpaframework==13.0.0
